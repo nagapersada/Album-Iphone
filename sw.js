@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dvnp-motivation-v7'; // <-- VERSI BARU (v7)
+const CACHE_NAME = 'dvnp-motivation-v9'; // <-- VERSI TERBARU (v9)
 const urlsToCache = [
     './',
     './index.html',
@@ -10,7 +10,7 @@ const urlsToCache = [
     './icons/icon-192x192.png',
     './icons/icon-512x512.png',
     
-    // Daftar lengkap lagu
+    // Daftar lengkap 11 lagu
     './audio/Leader Tim.mp3',
     './audio/Alat-alat Tim DVNP.mp3',
     './audio/Metode Kerja.mp3',
@@ -20,7 +20,8 @@ const urlsToCache = [
     './audio/Ketua Tim.mp3',
     './audio/apisangnaga.mp3',
     './audio/Penjaga Api Suci.mp3',
-    './audio/Edifikasi & Duplikasi.mp3' // <-- LAGU BARU DITAMBAHKAN
+    './audio/Edifikasi & Duplikasi.mp3',
+    './audio/Gema Edukasi OPALP.mp3'
 ];
 
 // Event Install: Menyimpan cache aset
